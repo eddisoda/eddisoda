@@ -1,1 +1,1 @@
-hi
+<img src="https://media.discordapp.net/attachments/1568774282614411384/1574983227439845476/image.png?ex=6b07a0ef&amp;is=6b064f6f&amp;hm=dbe447eb8398cf86e4eebb890945202e69ed679a88469b3ff0153f5a8897dcba&amp;format=webp&amp;quality=lossless&amp;width=1064&amp;height=790" alt="Image"/><img width="804" height="597" alt="image" src="https://github.com/user-attachments/assets/809b60d1-08f9-4a4c-98b1-76af085f1508" />
